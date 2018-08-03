@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Recurso de texto que se usará en el activity principal-->
+<resources>
+    <string name="app_name">AP3</string>
+    <string name="Info">AP3 es un Widget  de tipo Home Screen, no es una Aplicación normal.
+        Al tocar el Reloj se dispara un Activity.</string>
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--Propiedades del ícono del widget
+LLama al activity widget con el icono del reloj y aplica estas propiedades
+  android:updatePeriodMillis para actualizar el widget
+-->
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:minWidth="240dp"
+    android:minHeight="82dp"
+    android:updatePeriodMillis="0"
+    android:initialLayout="@layout/widget"/>
